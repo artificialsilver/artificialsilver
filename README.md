@@ -13,4 +13,6 @@
 <a><img alt="node.js" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=flat-square&logo=node.js&logoColor=white"/></a>
 <a><img alt="c" src ="https://img.shields.io/badge/c-A8B9CC.svg?&style=flat-square&logo=c&logoColor=white"/></a> 
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artificialsilver&langs_count=10&layout=compact&theme=dark)](https://github.com/artificialsilver/artificialsilver)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artificialsilver&langs_count=10&layout=compact&theme=dark)](https://github.com/artificialsilver/artificialsilver)
+ 
+![Eun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artificialsilver&show_icons=true&theme=radical)
