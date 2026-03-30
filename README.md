@@ -15,4 +15,3 @@
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artificialsilver&langs_count=10&layout=compact&theme=dark)](https://github.com/artificialsilver/artificialsilver)
  
-![Eun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artificialsilver&show_icons=true&theme=radical)
